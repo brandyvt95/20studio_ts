@@ -111,9 +111,9 @@ function FooterSection({ propsForGsap,state }: IFooterSection) {
                         </a>
                     </li>
                     <li className={s.item}>
-                        <a>
+                        <ButtonHoverNew btnNavbar={true} data_id={5} targetRedirect='https://www.instagram.com/20studio.vn/' classAdd={s.main_line}>
                             Instagram
-                        </a>
+                        </ButtonHoverNew>
                     </li>
                 </ul>
        {/* lỗi */}
