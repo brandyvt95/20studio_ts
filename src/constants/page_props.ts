@@ -4,8 +4,8 @@
 export const common = {
     infoContact:{
         phone: {
-            display: "036.223.7164",
-            href: "tel:0362237164"
+            display: "0969.168.629",
+            href: "tel:0969168629"
         },
         mail : {
             display: "20studio.contact@gmail.com",

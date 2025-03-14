@@ -89,7 +89,7 @@ export default function ContactPageIntro() {
                                 icon={<IconSVG src='/icon/arrow-right.svg' />}
                                 targetRedirect='0362237164'
                                 classAdd={cn(s.link, s.is_dark)}>
-                                036.223.7164
+                                0969.168.629
                             </ButtonHoverNew2>
 
                         </li>
