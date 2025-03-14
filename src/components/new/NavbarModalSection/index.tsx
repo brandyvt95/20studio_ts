@@ -161,7 +161,10 @@ function NavbarModalSection() {
                                 <a className={s.link_item}>Facebook</a>
                             </li>
                             <li className={s.social_link}>
-                                <a className={s.link_item}>Instagram</a>
+                                
+                                <ButtonHoverNew btnNavbar={true} data_id={5} targetRedirect='https://www.instagram.com/20studio.vn/' classAdd={s.main_line}>
+                                    Instagram
+                                </ButtonHoverNew>
                             </li>
                         </ul>
                         <ul className={s.social}>
