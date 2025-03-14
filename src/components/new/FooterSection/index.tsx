@@ -94,7 +94,7 @@ function FooterSection({ propsForGsap, state }: IFooterSection) {
                     </ul>
                     <ul className={s.social}>
                         <li className={s.item}>
-                            <ButtonHoverNew btnNavbar={true} data_id={2} targetRedirect='https://www.facebook.com/profile.php?id=100090452670743' classAdd={s.main_line}>
+                            <ButtonHoverNew btnNavbar={true} data_id={5} targetRedirect='https://www.instagram.com/20studio.vn/' classAdd={s.main_line}>
                                 Facebook
                             </ButtonHoverNew>
                         </li>
