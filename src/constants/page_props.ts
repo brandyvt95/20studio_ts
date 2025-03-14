@@ -39,7 +39,7 @@ export const about_page = {
             },
             moreStyle:{ },
             disableParaInro : false,
-            paraIntro:["We are a global creative fashion studio base in","Ho Chi Minh city. We work with artist, designer and manufactures","on clients projectsto produce outstanding works."],
+            paraIntro:["We are a global creative fashion studio base in","Ho Chi Minh city. We work with artist, designer and manufactures","on clients projects to produce outstanding works."],
             tit : ["Fashion","Creative","Production"],
             morePara:"Beside designing and fashion production, 20Studio work on projects of all types including brand and product development, digital experience design, social media design, production management and fashion business solutions.",
             listBtn:['Home','Project','Sustainability','Service','Contact'],
@@ -93,7 +93,7 @@ export const home_page = {
                 size: { width: "100%", height: "auto" }
             },
             disableParaInro : false,
-            paraIntro:["We are a global creative fashion studio base in","Ho Chi Minh city. We work with artist, designer and manufactures","on clients projectsto produce outstanding works."],
+            paraIntro:["We are a global creative fashion studio base in","Ho Chi Minh city. We work with artist, designer and manufactures","on clients projects to produce outstanding works."],
             tit : ["Fashion","Creative","Production"],
             morePara:"Beside designing and fashion production, 20Studio work on projects of all types including brand and product development, digital experience design, social media design, production management and fashion business solutions.",
             listBtn:['About us','Sustainability','Project','Service','Contact'],
