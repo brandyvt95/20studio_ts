@@ -81,7 +81,7 @@ function LetContact({ propsForGsap, content }: ILetContact) {
           {content.disableBtn ? <></> :
             <ButtonHoverNew2
               icon={<IconSVG src='/icon/arrow-right.svg' />}
-              targetRedirect='mailto:vphcm@studio.vn'
+              targetRedirect='mailto:contact@20studio.vn'
               classAdd={cn(s.link, s.is_white, s.wrap)}>
               Let&apos;s touch
             </ButtonHoverNew2>

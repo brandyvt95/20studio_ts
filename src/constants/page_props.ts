@@ -8,8 +8,8 @@ export const common = {
             href: "tel:0969168629"
         },
         mail : {
-            display: "20studio.contact@gmail.com",
-            href: "mailto:20studio.contact@gmail.com"
+            display: "contact@20studio.vn",
+            href: "mailto:contact@20studio.vn"
         }
     },
     listBtnUrl: {

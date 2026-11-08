@@ -78,9 +78,9 @@ export default function ContactPageIntro() {
                         <li className={s.contact_item}>
                             <ButtonHoverNew2
                                 icon={<IconSVG src='/icon/arrow-right.svg' />}
-                                targetRedirect='mailto:20studio.contact@gmail.com'
+                                targetRedirect='mailto:contact@20studio.vn'
                                 classAdd={cn(s.link, s.is_dark)}>
-                                20studio.contact@gmail.com
+                                contact@20studio.vn
                             </ButtonHoverNew2>
 
                         </li>

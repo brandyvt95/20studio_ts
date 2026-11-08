@@ -35,7 +35,7 @@ function More({ propsForGsap }: ILetContact) {
           </div>
           <ButtonHoverNew2
             icon={<IconSVG src='/icon/arrow-right.svg' />}
-            targetRedirect='mailto:vphcm@studio.vn'
+            targetRedirect='mailto:contact@20studio.vn'
             classAdd={cn(s.link, s.is_dark, s.wrap)}>
             Let&apos;s touch
           </ButtonHoverNew2>

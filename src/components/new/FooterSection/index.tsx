@@ -65,8 +65,8 @@ function FooterSection({ propsForGsap, state }: IFooterSection) {
                             </a>
                         </li>
                         <li className={s.item}>
-                            <a href="mailto:20studio.contact@gmail.com">
-                                20studio.contact@gmail.com
+                            <a href="mailto:contact@20studio.vn">
+                                contact@20studio.vn
                             </a>
                         </li>
                     </ul>
